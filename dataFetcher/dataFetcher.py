@@ -8,6 +8,6 @@ class DataFetcher:
         self._scraper = Scraper()
         self._parser = Parser()
 
-    def get_substitution(self):
+    def get_substitutions(self):
         html = self._scraper.scrape()
         return self._parser.get_substitution_of_class(html)
