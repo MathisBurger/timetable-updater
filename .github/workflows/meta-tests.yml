@@ -1,3 +1,4 @@
+name: lint & build
 on: [push]
 
 jobs:
