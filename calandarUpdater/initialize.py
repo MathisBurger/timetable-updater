@@ -9,7 +9,7 @@ from google.oauth2.credentials import Credentials
 class InitializeCalendar:
 
     def __init__(self):
-        self.SCOPES = ['https://www.googleapis.com/auth/calendar.readonly']
+        self.SCOPES = ['https://www.googleapis.com/auth/calendar']
 
     def start(self):
         creds = None
