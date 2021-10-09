@@ -52,4 +52,9 @@ If you want to setup this installation yourself you have to follow some quick st
 5. Start the application again
 6. Now feel free to configure a crobjob or something else for it.
 
+# Docker info
+
+I recommend using `docker-compose` for setting up your docker volumes and services,
+because it provides a much cleaner way of setting up everything than using
+long commands filled with arguments.
 
