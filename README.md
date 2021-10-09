@@ -9,8 +9,8 @@
 </div>
 <hr>
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" height="100"/>
-<img src=".media/cal.png" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" height="128"/>
+<img src=".media/cal.png" height="128" />
 </div>
 
 # Project information
